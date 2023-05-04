@@ -109,6 +109,26 @@ kubernetes cluster.
 
 Then click on Build Now 
 
+Screenshots:
+!![image](https://user-images.githubusercontent.com/93240856/236257947-e2ae4203-0d40-4445-b78f-b806d1334e28.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258066-ff18c304-bc8c-4690-96f9-27210f7a687a.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258146-ff120fbd-941e-4d44-83d3-6c44bd335647.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258202-4ad162e8-ed99-495d-8256-378c9016ea09.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258253-8f2475ec-bc50-40dd-9eb3-8ff6f859273a.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258326-c54bb6f3-e37a-4475-98d5-ce599beda1d6.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258395-3ae6c9d6-8e33-436f-8584-9e2d80768c67.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258436-87d92fd2-a204-4596-8f35-265eac7d4b60.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258509-a3ca25c8-4fab-41b0-a350-b8ccb4703037.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258565-c14fe41d-785e-4b4f-b81e-261c0f0f2d1c.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258607-d94accdd-3d3f-4bef-86da-49c18d1814b6.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258673-ef4dca95-68ae-4956-b892-c60a3060f66c.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258759-aa80d4d1-9f90-4626-8849-06511d3a04fb.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258811-1b610c34-7c8e-4afd-9021-c5b251297711.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258895-f1e2aef8-1b2f-4892-be37-5b5470b24a3d.png)
+!![image](https://user-images.githubusercontent.com/93240856/236258942-176a723d-7c77-437d-9e84-699847dfc990.png)
+!![Uploading image.png…]()
+
+
 
 
 
