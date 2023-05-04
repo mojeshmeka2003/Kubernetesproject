@@ -1,0 +1,7 @@
+-hosts: all
+ tasks:
+   - name: create deployment
+     command: kubectl apply -f /opt/deployment.yml
+
+   - name: create service
+     command: kubectl apply -f /opt/service.yml
